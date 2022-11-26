@@ -4,3 +4,4 @@ I'll be slowly filling out this repo with my solutions to the top leet code inte
 The solutions will be purely in Rust to force myself to learn it!
 
 1) two_sum problem
+2) valid_parenthesis
