@@ -5,3 +5,4 @@ The solutions will be purely in Rust to force myself to learn it!
 
 1) two_sum problem
 2) valid_parenthesis
+3) merge_two_sorted_lists
