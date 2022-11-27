@@ -8,3 +8,8 @@ The solutions will be purely in Rust to force myself to learn it!
 3) merge_two_sorted_lists
 4) search_insert_position
 5) climbing_stairs
+6) pascals_triangle
+7) best_time_to_buy_and_sell_stock
+8)
+9)
+10)
