@@ -10,6 +10,6 @@ The solutions will be purely in Rust to force myself to learn it!
 5) climbing_stairs
 6) pascals_triangle
 7) best_time_to_buy_and_sell_stock
-8)
-9)
+8) running_sum_of_1d_array
+9) find_pivot_index
 10)
