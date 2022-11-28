@@ -12,4 +12,14 @@ The solutions will be purely in Rust to force myself to learn it!
 7) best_time_to_buy_and_sell_stock
 8) running_sum_of_1d_array
 9) find_pivot_index
-10)
+10) isomorphic_strings
+11) is_subsequence
+12)
+13)
+14)
+15)
+16)
+17)
+18)
+19)
+20)
