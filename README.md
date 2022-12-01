@@ -14,8 +14,8 @@ The solutions will be purely in Rust to force myself to learn it!
 9) find_pivot_index
 10) isomorphic_strings
 11) is_subsequence
-12)
-13)
+12) middle_of_the_linked_list
+13) reverse_linked_list
 14)
 15)
 16)
